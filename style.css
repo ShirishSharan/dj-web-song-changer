@@ -20,7 +20,7 @@
 }
 body
 {
-  background-size: cover;	
+  background-size: contain;	
 }
   #song
   {
@@ -42,6 +42,25 @@ body
     border-right: rgb(65, 0, 102);
     
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes canvas1{
+    from{box-shadow: 10px 10px 10px yellow;}
+    to{box-shadow: 10px 10px 10px red}
+}
+
 
 
 
